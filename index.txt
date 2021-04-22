@@ -1,6 +1,0 @@
-body {
-font-family: "Palatino Linotype", sans-serif;
-}
-header {
-font-family: "Merriweather", serif;
-}
